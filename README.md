@@ -53,7 +53,7 @@ Detailed insights for each request are documented within the project files.
 
 Contributors
 
-	•	Aryan Sharma (Project Lead)
+	•	Vishal Patil (Project Lead)
 	•	Dhaval Patel
 	•	Bhavin Patel
 	•	Hemanand Vadivel
