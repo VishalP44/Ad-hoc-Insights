@@ -1,5 +1,4 @@
-# Ad hoc Visuals
-Ad_Hoc Insights
+# Ad_Hoc Insights
 
 Overview
 
